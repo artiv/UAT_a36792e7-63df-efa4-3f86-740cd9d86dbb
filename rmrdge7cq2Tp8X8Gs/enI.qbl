@@ -43,7 +43,75 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Video",
 						"fieldKey": "Video",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_a36792e7-63df-efa4-3f86-740cd9d86dbb/modernFamily_qe7loa",
+								"version": 1559750071,
+								"signature": "40aa8ff829d35f2091521f487ea8d211426978f6",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-06-05T15:54:31Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1398635,
+								"type": "upload",
+								"etag": "323bb8e393e9654e4c88af020b0ff00c",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1559750071/UAT_a36792e7-63df-efa4-3f86-740cd9d86dbb/modernFamily_qe7loa.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1559750071/UAT_a36792e7-63df-efa4-3f86-740cd9d86dbb/modernFamily_qe7loa.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "95999",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "Constrained Baseline",
+									"bit_rate": "273006",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 371257,
+								"duration": 30.138333,
+								"rotation": 0,
+								"original_filename": "modernFamily",
+								"path": "v1559750071/UAT_a36792e7-63df-efa4-3f86-740cd9d86dbb/modernFamily_qe7loa.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1559750071/UAT_a36792e7-63df-efa4-3f86-740cd9d86dbb/modernFamily_qe7loa.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1559750071/UAT_a36792e7-63df-efa4-3f86-740cd9d86dbb/modernFamily_qe7loa.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_a36792e7-63df-efa4-3f86-740cd9d86dbb/modernFamily_qe7loa"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
